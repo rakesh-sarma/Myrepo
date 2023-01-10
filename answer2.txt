@@ -8,4 +8,6 @@
 
 4. git remote add origin https://github.com/rakeshsarma033/repo2.git
 
-5. git commit
+5. git push
+
+6. git push --set-upstream origin master
