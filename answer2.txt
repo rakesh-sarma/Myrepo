@@ -1,0 +1,11 @@
+// Write all commands from initiallising to pushing your repoi to github
+
+1. git init
+
+2. git add.
+
+3. git commit -m "my message"
+
+4. git remote add origin https://github.com/rakeshsarma033/repo2.git
+
+5. git commit

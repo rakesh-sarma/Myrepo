@@ -1,0 +1,18 @@
+ //How we can use ssh in github and also write command to generate ssh keys in your respestive operating system
+
+1. We have to open CMD/Terminal in our laptops and type the command "ssh-keygen" and enter.
+ 
+ After that the SSH key will be generated in our PC.
+
+ 2. To view the .pub file , we have open the terminal in mac and type the following command:
+   "cat .ssh/id_rsa.pub.". It will show the id_rsa.pub file.
+
+3. Copy the file content.
+
+4. Go to the Github page and go to settings.
+
+5. Click on "SSH and GPG Keys".
+
+6. Click on "New SSH Keys".
+
+7. Give a title and paste the SSH key in the key section and press "add SSH keys".
