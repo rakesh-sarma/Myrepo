@@ -13,5 +13,3 @@
 6. git push
 
 3. Deploy a static website using the same repo and add screen shot.
-4. Difference between static and dynamic website.
-5. Steps you followed to connect github repo to your local repo.
